@@ -31,3 +31,10 @@
   * finished the main() method
   * this version takes 1 hour
   
+#version 0.1.005: 2019-04-14-1806
+  * found a bug with repo = None; fixed too
+  * incorporate plac to make it runnable
+  * linted with flake8
+  * this version takes 1 hour
+  
+In total, around 8 hours (1 work-day).
