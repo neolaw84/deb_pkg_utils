@@ -1,0 +1,11 @@
+bin/ash                                                 shells/ash
+bin/bash                                                shells/bash
+bin/bash-static                                         shells/bash-static
+bin/bsd-csh                                             shells/csh
+bin/btrfs                                               admin/btrfs-progs
+bin/btrfs-calc-size                                     admin/btrfs-progs
+bin/btrfs-convert                                       admin/btrfs-progs
+bin/btrfs-debug-tree                                    admin/btrfs-progs
+bin/btrfs-find-root                                     admin/btrfs-progs
+bin/btrfs-image                                         admin/btrfs-progs
+bin/btrfs-map-logical                                   admin/btrfs-progs
